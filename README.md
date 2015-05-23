@@ -7,6 +7,7 @@ All books on this website: [pcvilag.muskatli.hu](http://pcvilag.muskatli.hu/)
 
 ###Start
 	$./retro.py
+
 or
 
 	$python retro.py
