@@ -14,6 +14,7 @@ or
 ###Requirements
 
 * BeautifulSoup (pip install beautifulsoup4)
+* ImageMagick (sudo apt-get install imagemagick)
 
 ###Tested
 Tested by Python 2.7
